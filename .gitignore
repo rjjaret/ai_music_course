@@ -1,3 +1,6 @@
 .DS_Store
 .venv
 .ipynb_checkpoints
+.vscode
+huggingface_hub_cache
+repositories
